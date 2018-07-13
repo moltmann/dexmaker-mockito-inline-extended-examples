@@ -1,0 +1,5 @@
+<resources>
+    <string name="short_app_name">Loc Logger</string>
+    <string name="app_name">Location Logger</string>
+    <string name="error_no_loc_perm">Could not get location permission</string>
+</resources>
